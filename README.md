@@ -1,5 +1,9 @@
 # Apprentissage par transfert pour la classification d'images
 
+iNaturalist, super-catégorie Fungi      |  Oxford 102 Flowers
+:-------------------------:|:-------------------------:
+![](imgs/267a6670c1473889755d0c2e10ceebd6.jpg)  |  ![](imgs/image_00001.jpg)
+
 
 
 ## Données
@@ -16,7 +20,7 @@ Des exemples à des fins de démonstration sont présent dans le dossier **data/
 ## Installation
 
 ``` 
-pip install-r  requirements.txt
+pip install -r requirements.txt
 ```
 
 Si les datasets doivent être téléchargés
