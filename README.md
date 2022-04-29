@@ -2,7 +2,7 @@
 
 iNaturalist, super-catégorie Fungi      |  Oxford 102 Flowers
 :-------------------------:|:-------------------------:
-![](imgs/267a6670c1473889755d0c2e10ceebd6.jpg)  |  ![](imgs/image_00001.jpg)
+![](imgs/d0b61c04d5365677ac527a5c0221b392.jpg)  |  ![](imgs/image_00001.jpg)
 
 
 
