@@ -2,6 +2,8 @@
 
 Code pour le projet d'INF8225
 
+Nous comparons ici les performances de ResNet et Inception v3 sur deux datasets, avec apprentissage par transfert et augmentation de données.
+
 iNaturalist, super-catégorie Fungi      |  Oxford 102 Flowers
 :-------------------------:|:-------------------------:
 ![](imgs/d0b61c04d5365677ac527a5c0221b392.jpg)  |  ![](imgs/image_00001.jpg)
